@@ -1,3 +1,13 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">EatEase</string>
+    <string name="sta">sta</string>
+    <string name="eats">Eats</string>
+    <string name="user_email_com">user@email.com</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="or">OR</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="by_continuing_you_agree_to_our" tools:ignore="ExtraTranslation">By continuing, you agree to our Terms and Conditions and Privacy Policy</string>
 </resources>
